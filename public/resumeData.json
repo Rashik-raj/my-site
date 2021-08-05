@@ -1,0 +1,203 @@
+{
+  "main": {
+    "name": "Rashikraj Shrestha",
+    "description": "I am a web development engineer and I use React JS as frontend framework and Django/Flask as backend framework to build you a beautiful web sites.",
+    "image": "profilepic.jpg",
+    "bio":"Hi, I’m Rashikraj Shrestha passionate to work as a web developer. I have 2 years of experience in working as backend developer. I can build beautiful website using django/flask framework. I believe in my dedication and passion. I am a Computer Engineer by profession.",
+    "contactmessage": "Would you like to work with me? Awesome!",
+    "email": "rashik123.rs@gmail.com",
+    "phone": "+977-9860080002",
+    "github": "https://github.com/nordicgiant2/react-nice-resume",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "Mahankal-06",
+      "city": "Kathmandu",
+      "state": "Bagmati",
+      "zip": "44600"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rashiks3/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rashikraj-shrestha-b62b81157/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rashik.shrestha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Rashik-raj",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Kathford Int’l College of Engineering and Management (T.U)",
+        "degree": "Bachelor degree in computer engineering",
+        "graduated": "April 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Uniglobe SS/College",
+        "degree": "High school",
+        "graduated": "March 2016",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Baba Boarding High School",
+        "degree": "School Leaving Certificate",
+        "graduated": "March 2014",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Vacker360",
+        "title": "Django Intern",
+        "years": "Nov 17, 2019 – Mar 31, 2020",
+        "description": "Make Django web apps, but mostly work in Odoo framework to add feature to in-house Odoo website."
+      },
+      {
+        "company": "Vacker360",
+        "title": "Associate Software Engineer",
+        "years": "Apr 1 2020 – Jul 31, 2020",
+        "description": "Design database, make fully functional webapps in Django and add new features to ERP in Odoo."
+      },
+      {
+        "company": "WOM",
+        "title": "Python Developer",
+        "years": "Aug 1 2020 - Feb 30, 2021",
+        "description": "Design database system, create rest API and lead Backend."
+      },
+      {
+        "company": "Moru",
+        "title": "Python Developer",
+        "years": "Mar 1 2021 - Continuing",
+        "description": "Design database, create rest API for making Digital Wallet more secure and add new services."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Django",
+        "level": "80%"
+      },
+      {
+        "name": "Flask",
+        "level": "70%"
+      },
+      {
+        "name": "Odoo",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Flutter",
+        "level": "20%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
