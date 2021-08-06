@@ -45,6 +45,7 @@ class Contact extends Component {
                       size="35"
                       id="contactName"
                       name="name"
+                      required
                       onChange={this.handleChange}
                     />
                   </div>
@@ -54,11 +55,12 @@ class Contact extends Component {
                       Email <span className="required">*</span>
                     </label>
                     <input
-                      type="text"
+                      type="email"
                       defaultValue=""
                       size="35"
                       id="contactEmail"
                       name="email"
+                      required
                       onChange={this.handleChange}
                     />
                   </div>
@@ -71,6 +73,7 @@ class Contact extends Component {
                       size="35"
                       id="contactSubject"
                       name="subject"
+                      required
                       onChange={this.handleChange}
                     />
                   </div>
@@ -83,6 +86,7 @@ class Contact extends Component {
                       cols="50"
                       rows="15"
                       id="contactMessage"
+                      required
                       name="message"
                     ></textarea>
                   </div>
