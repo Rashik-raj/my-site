@@ -77,10 +77,10 @@ jQuery(document).ready(function($) {
     $("form#contactForm button.submit").click(function() {
       $("#image-loader").fadeIn();
 
-      var contactName = $("#contactForm #contactName").val();
-      var contactEmail = $("#contactForm #contactEmail").val();
-      var contactSubject = $("#contactForm #contactSubject").val();
-      var contactMessage = $("#contactForm #contactMessage").val();
+      var contactName = $("#contactForm #name").val();
+      var contactEmail = $("#contactForm #email").val();
+      var contactSubject = $("#contactForm #subject").val();
+      var contactMessage = $("#contactForm #message").val();
 
       var data =
         "contactName=" +
@@ -94,9 +94,10 @@ jQuery(document).ready(function($) {
 
       $.ajax({
         type: "POST",
-        url: "inc/sendEmail.php",
+        url: "/",
         data: data,
         success: function(msg) {
+          alert(msg)
           // Message was sent
           if (msg == "OK") {
             $("#image-loader").fadeOut();

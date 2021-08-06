@@ -32,7 +32,8 @@ class Contact extends Component {
         <div className="row">
           <Slide left duration={1000}>
             <div className="eight columns">
-              <form action="" method="post" id="contactForm" name="contactForm">
+              <form action="/" method="post" id="contactForm" name="contactForm">
+                <input type="hidden" name="form-name" value="contact" />
                 <fieldset>
                   <div>
                     <label htmlFor="contactName">
@@ -43,7 +44,7 @@ class Contact extends Component {
                       defaultValue=""
                       size="35"
                       id="contactName"
-                      name="contactName"
+                      name="name"
                       onChange={this.handleChange}
                     />
                   </div>
@@ -57,7 +58,7 @@ class Contact extends Component {
                       defaultValue=""
                       size="35"
                       id="contactEmail"
-                      name="contactEmail"
+                      name="email"
                       onChange={this.handleChange}
                     />
                   </div>
@@ -69,7 +70,7 @@ class Contact extends Component {
                       defaultValue=""
                       size="35"
                       id="contactSubject"
-                      name="contactSubject"
+                      name="subject"
                       onChange={this.handleChange}
                     />
                   </div>
@@ -82,7 +83,7 @@ class Contact extends Component {
                       cols="50"
                       rows="15"
                       id="contactMessage"
-                      name="contactMessage"
+                      name="message"
                     ></textarea>
                   </div>
 
