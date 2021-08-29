@@ -197,6 +197,12 @@
         "category": "My Travel Blog for my post-university travels",
         "image": "06.jpg",
         "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Vending Machine",
+        "category": "Vending Machine",
+        "image": "vending-machine.png",
+        "url": "https://rashik-vending-machine.herokuapp.com/"
       }
     ]
   }
