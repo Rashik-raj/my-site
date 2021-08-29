@@ -203,6 +203,18 @@
         "category": "Vending Machine",
         "image": "vending-machine.png",
         "url": "https://rashik-vending-machine.herokuapp.com/"
+      },
+      {
+        "title": "React To-do List",
+        "category": "React To-do List",
+        "image": "react-todo.png",
+        "url": "https://react-toto-app.netlify.app/"
+      },
+      {
+        "title": "React Tip Calculator",
+        "category": "React Tip Calculator",
+        "image": "react-tip-calculator.png",
+        "url": "https://rs-tip-calculator.netlify.app/"
       }
     ]
   }
