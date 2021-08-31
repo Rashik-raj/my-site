@@ -149,6 +149,12 @@
         "category": "Flask Credential Manager",
         "image": "flask-credential-manager.png",
         "url": "https://flask-credential-manager.herokuapp.com/"
+      },
+      {
+        "title": "Django E-commerce",
+        "category": "Django E-commerce",
+        "image": "django-ecommerce.png",
+        "url": "https://rashik-dj-ecommerce.herokuapp.com/"
       }
     ]
   }
