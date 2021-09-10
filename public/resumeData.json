@@ -161,6 +161,12 @@
         "category": "Django URL Shortener",
         "image": "dj-url-shortener.png",
         "url": "https://dj-urlshortener.herokuapp.com/"
+      },
+      {
+        "title": "Django Extractive Summarizer",
+        "category": "Django Extractive Summarizer",
+        "image": "dj-extractive-summarizer.png",
+        "url": "https://dj-extractive-summarizer.herokuapp.com/"
       }
     ]
   }
