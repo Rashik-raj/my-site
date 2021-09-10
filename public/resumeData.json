@@ -155,6 +155,12 @@
         "category": "Django E-commerce",
         "image": "django-ecommerce.png",
         "url": "https://rashik-dj-ecommerce.herokuapp.com/"
+      },
+      {
+        "title": "Django URL Shortener",
+        "category": "Django URL Shortener",
+        "image": "dj-url-shortener.png",
+        "url": "https://dj-urlshortener.herokuapp.com/"
       }
     ]
   }
